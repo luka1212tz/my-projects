@@ -39,7 +39,7 @@ main,footer{
     text-align: justify; 
     margin: 100px
 }
-#mainP,#mainP1{
+#mainP,#main_P1{
     width:360px;
     height: 200px;
 }
@@ -52,6 +52,13 @@ span{
     color: white;
 }
 
-
-
-
+#custom-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
